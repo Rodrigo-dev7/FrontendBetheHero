@@ -5,10 +5,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h1>Hello World</h1>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <strong>Hello OmniStack 11</strong>
         </p>
         <a
           className="App-link"
