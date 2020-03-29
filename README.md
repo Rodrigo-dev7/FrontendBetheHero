@@ -1,6 +1,6 @@
 # Desenvolvendo FrontEnd - App BetheHero
 **Be the Hero** um projeto para ONGS desevnvolvido na semanaOmniStack da Rocketseat,
-pensando contruibuir de alguma forma com a sociedade nesta semana criamos uma  aplicação com NodeJS no BackEnd, ReactJS no FrontEnd e React native no Mobile para cadastrar caso com animais que precisam de assitencia, qualquer pessoa pode contrubuir e ajudar.
+pensando contruibuir de alguma forma com a sociedade nesta semana criamos uma  aplicação com **NodeJS no BackEnd, ReactJS no FrontEnd e React native no Mobile** para cadastrar caso com animais que precisam de assitencia, qualquer pessoa pode contrubuir e ajudar.
 
 # Conceitos do React
 ## Componente:
